@@ -1,0 +1,18 @@
+{
+  "name": "namasthedsa",
+  "version": "1.0.0",
+  "description": "Learnig DSA with Akshay Shaini",
+  "keywords": [
+    "javascript",
+    "dsa",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Ganesh Asimshetti",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  }
+}
